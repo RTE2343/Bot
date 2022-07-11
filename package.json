@@ -1,0 +1,12 @@
+{
+  "name": "lunixbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+ 
+  "author": "RTE",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
